@@ -1,6 +1,6 @@
 # Atelier Git & GitHub
 <<<<<<< HEAD
-Voici mon deuxièmes commentaire dans un fichier README
+Voici mon ciquieme commentaire dans un fichier README
 =======
 <<<<<<< HEAD
 Voici mon troisieme commentaire dans un fichier README
